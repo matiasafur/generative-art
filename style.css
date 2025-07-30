@@ -1,0 +1,16 @@
+body {
+  color: snow;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-color: #353535;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+canvas {
+  border: 1px solid snow;
+  margin-top: 20px;
+  background-color: white;
+}
