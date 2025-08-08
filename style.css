@@ -10,7 +10,7 @@ h1 {
 }
 
 canvas {
+  background-color: snow;
   border: 1px solid snow;
   margin-top: 20px;
-  background-color: white;
 }
